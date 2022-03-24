@@ -1,6 +1,6 @@
 == Finance Demo Application
 
-This is a demo project implemented for `*OpenPayd*` interview rounds of *2020*. This is a just simple foreign exchange application which is one of the most common services used in various financial applications.
+This is a demo project implemented for `*OpenPayd*` interview rounds of *2022*. This is a just simple foreign exchange application which is one of the most common services used in various financial applications.
 
 == Reference Documentation
 
